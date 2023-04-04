@@ -19,7 +19,7 @@ public class Lesson_2 {
     .rolback - возвращает действие назад
 
     Еще он имеет методы типа Statement и PreparedStatement
-     .createStatement() - используется для DDL команд - создание удаление и т.д
+     .createStatement() - используется для DDL, DML команд - создание удаление и т.д
      .prepareStatement() - используется для более сложны задач(запросы и т.д)
 
      На практике используется чаще .prepareStatement(), так как он наследует еще и Statement, и имеет его методы

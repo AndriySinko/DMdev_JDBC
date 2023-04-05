@@ -3,6 +3,11 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/src/day2/ResultSet_GeneratedKeys_4.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/day2/ResultSet_SELECT_3.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/day2/StatementDDL_1.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/day2/StatementDML_2.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/day3/Batch_5.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/day3/Blob_Clob_6.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/day3/PreparedStatement_1.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/day3/Transactions_4.java" dialect="GenericSQL" />
   </component>
 </project>

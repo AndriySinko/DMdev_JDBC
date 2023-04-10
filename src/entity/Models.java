@@ -8,6 +8,9 @@ public class Models {
     private Integer engineId;
     private Integer transmissionId;
 
+    public Models() {
+    }
+
     public Models(Integer id, Integer companyId, String modelName, Integer modelYears, Integer engineId, Integer transmissionId) {
         this.id = id;
         this.companyId = companyId;
@@ -39,6 +42,30 @@ public class Models {
 
     public void setTransmissionId(Integer transmissionId) {
         this.transmissionId = transmissionId;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public Integer getCompanyId() {
+        return companyId;
+    }
+
+    public String getModelName() {
+        return modelName;
+    }
+
+    public Integer getModelYears() {
+        return modelYears;
+    }
+
+    public Integer getEngineId() {
+        return engineId;
+    }
+
+    public Integer getTransmissionId() {
+        return transmissionId;
     }
 
     @Override
